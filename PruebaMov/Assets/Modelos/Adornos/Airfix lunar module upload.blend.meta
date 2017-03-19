@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: e1e4090de0eab3045b156fc4a5916524
+timeCreated: 1488771277
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DoF_empty
+    100004: Empty_module_target
+    100006: handrail_loft
+    100008: ladder_curved_rungs_loft
+    100010: leg_support_lower_2
+    100012: leg_supports
+    100014: LRR_handle_loft
+    100016: main_leg_loft
+    100018: Plane_004
+    100020: PS_antenna_loft
+    100022: PSE_antenna
+    100024: PSE_base
+    100026: PSE_drum
+    100028: radar_stem_loft
+    100030: s-band_dish_legs_loft
+    100032: s-band_dish_ribs_loft
+    100034: s-band_legs
+    100036: s-band_support_loft
+    100038: Solar_Panels
+    100040: struts_loft
+    100042: struts_top_loft
+    400000: //RootNode
+    400002: DoF_empty
+    400004: Empty_module_target
+    400006: handrail_loft
+    400008: ladder_curved_rungs_loft
+    400010: leg_support_lower_2
+    400012: leg_supports
+    400014: LRR_handle_loft
+    400016: main_leg_loft
+    400018: Plane_004
+    400020: PS_antenna_loft
+    400022: PSE_antenna
+    400024: PSE_base
+    400026: PSE_drum
+    400028: radar_stem_loft
+    400030: s-band_dish_legs_loft
+    400032: s-band_dish_ribs_loft
+    400034: s-band_legs
+    400036: s-band_support_loft
+    400038: Solar_Panels
+    400040: struts_loft
+    400042: struts_top_loft
+    2300000: handrail_loft
+    2300002: ladder_curved_rungs_loft
+    2300004: leg_support_lower_2
+    2300006: leg_supports
+    2300008: LRR_handle_loft
+    2300010: main_leg_loft
+    2300012: Plane_004
+    2300014: PS_antenna_loft
+    2300016: PSE_antenna
+    2300018: PSE_base
+    2300020: PSE_drum
+    2300022: radar_stem_loft
+    2300024: s-band_dish_legs_loft
+    2300026: s-band_dish_ribs_loft
+    2300028: s-band_legs
+    2300030: s-band_support_loft
+    2300032: Solar_Panels
+    2300034: struts_loft
+    2300036: struts_top_loft
+    3300000: handrail_loft
+    3300002: ladder_curved_rungs_loft
+    3300004: leg_support_lower_2
+    3300006: leg_supports
+    3300008: LRR_handle_loft
+    3300010: main_leg_loft
+    3300012: Plane_004
+    3300014: PS_antenna_loft
+    3300016: PSE_antenna
+    3300018: PSE_base
+    3300020: PSE_drum
+    3300022: radar_stem_loft
+    3300024: s-band_dish_legs_loft
+    3300026: s-band_dish_ribs_loft
+    3300028: s-band_legs
+    3300030: s-band_support_loft
+    3300032: Solar_Panels
+    3300034: struts_loft
+    3300036: struts_top_loft
+    4300000: ladder_curved_rungs_loft
+    4300002: LRR_handle_loft
+    4300004: s-band_dish_legs_loft
+    4300006: s-band_legs
+    4300008: s-band_dish_ribs_loft
+    4300010: PS_antenna_loft
+    4300012: PSE_base
+    4300014: PSE_drum
+    4300016: Solar_Panels
+    4300018: PSE_antenna
+    4300020: radar_stem_loft
+    4300022: s-band_support_loft
+    4300024: handrail_loft
+    4300026: leg_supports
+    4300028: Plane_004
+    4300030: struts_top_loft
+    4300032: struts_loft
+    4300034: leg_support_lower_2
+    4300036: main_leg_loft
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: 1971a7fa5bea6414abfe7beec67ac54c
+timeCreated: 1489447283
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: buz artic pied dr
+    100002: buz artic pied ga
+    100004: buz bras dr artic2
+    100006: buz bras ga artic2
+    100008: buz cheville dr1
+    100010: buz cheville dr2
+    100012: buz cheville ga1
+    100014: buz epaule ga
+    100016: buz genou dr
+    100018: buz genou ga
+    100020: buz main dr artic
+    100022: buz main dr d1
+    100024: buz main dr d2
+    100026: buz main dr d3
+    100028: buz main dr d4
+    100030: buz main dr pouce
+    100032: buz main ga artic
+    100034: buz main ga d1
+    100036: buz main ga d2
+    100038: buz main ga d3
+    100040: buz main ga d4
+    100042: buz main ga pouce
+    100044: buz paup sup ga
+    100046: buzz avant bras dr
+    100048: buzz avant bras ga
+    100050: buzz bouton rouge1
+    100052: buzz boutons droite
+    100054: buzz bust epaules
+    100056: buzz bust int1
+    100058: buzz buste
+    100060: buzz casque
+    100062: buzz cheville ga2
+    100064: buzz dents inf
+    100066: buzz dents sup
+    100068: buzz ep dr artic
+    100070: buzz ep ga artic
+    100072: buzz epaule dr
+    100074: buzz euil dr
+    100076: buzz euil ga
+    100078: buzz hanches
+    100080: buzz jamb bas dr
+    100082: buzz jamb bas ga
+    100084: buzz jambe dr
+    100086: buzz jambe ga
+    100088: buzz main dr
+    100090: buzz main ga
+    100092: buzz paup sup dr
+    100094: buzz pied droit
+    100096: buzz pied gauche
+    100098: buzz slip
+    100100: buzz sup casque d
+    100102: buzz sup casque g
+    100104: buzz-head base
+    100106: //RootNode
+    100108: bzz bras  dr
+    100110: bzz bras ga
+    100112: Camera
+    100114: Circle
+    100116: Circle.001
+    100118: Circle.002
+    100120: Circle.003
+    100122: CurveCircle.003
+    100124: mixamorig:Head
+    100126: mixamorig:HeadTop_End
+    100128: mixamorig:Hips
+    100130: mixamorig:LeftArm
+    100132: mixamorig:LeftFoot
+    100134: mixamorig:LeftForeArm
+    100136: mixamorig:LeftHand
+    100138: mixamorig:LeftHandIndex1
+    100140: mixamorig:LeftHandIndex2
+    100142: mixamorig:LeftHandIndex3
+    100144: mixamorig:LeftHandIndex4
+    100146: mixamorig:LeftLeg
+    100148: mixamorig:LeftShoulder
+    100150: mixamorig:LeftToe_End
+    100152: mixamorig:LeftToeBase
+    100154: mixamorig:LeftUpLeg
+    100156: mixamorig:Neck
+    100158: mixamorig:RightArm
+    100160: mixamorig:RightFoot
+    100162: mixamorig:RightForeArm
+    100164: mixamorig:RightHand
+    100166: mixamorig:RightHandIndex1
+    100168: mixamorig:RightHandIndex2
+    100170: mixamorig:RightHandIndex3
+    100172: mixamorig:RightHandIndex4
+    100174: mixamorig:RightLeg
+    100176: mixamorig:RightShoulder
+    100178: mixamorig:RightToe_End
+    100180: mixamorig:RightToeBase
+    100182: mixamorig:RightUpLeg
+    100184: mixamorig:Spine
+    100186: mixamorig:Spine1
+    100188: mixamorig:Spine2
+    100190: Sphere.006
+    100192: Sphere.016
+    400000: buz artic pied dr
+    400002: buz artic pied ga
+    400004: buz bras dr artic2
+    400006: buz bras ga artic2
+    400008: buz cheville dr1
+    400010: buz cheville dr2
+    400012: buz cheville ga1
+    400014: buz epaule ga
+    400016: buz genou dr
+    400018: buz genou ga
+    400020: buz main dr artic
+    400022: buz main dr d1
+    400024: buz main dr d2
+    400026: buz main dr d3
+    400028: buz main dr d4
+    400030: buz main dr pouce
+    400032: buz main ga artic
+    400034: buz main ga d1
+    400036: buz main ga d2
+    400038: buz main ga d3
+    400040: buz main ga d4
+    400042: buz main ga pouce
+    400044: buz paup sup ga
+    400046: buzz avant bras dr
+    400048: buzz avant bras ga
+    400050: buzz bouton rouge1
+    400052: buzz boutons droite
+    400054: buzz bust epaules
+    400056: buzz bust int1
+    400058: buzz buste
+    400060: buzz casque
+    400062: buzz cheville ga2
+    400064: buzz dents inf
+    400066: buzz dents sup
+    400068: buzz ep dr artic
+    400070: buzz ep ga artic
+    400072: buzz epaule dr
+    400074: buzz euil dr
+    400076: buzz euil ga
+    400078: buzz hanches
+    400080: buzz jamb bas dr
+    400082: buzz jamb bas ga
+    400084: buzz jambe dr
+    400086: buzz jambe ga
+    400088: buzz main dr
+    400090: buzz main ga
+    400092: buzz paup sup dr
+    400094: buzz pied droit
+    400096: buzz pied gauche
+    400098: buzz slip
+    400100: buzz sup casque d
+    400102: buzz sup casque g
+    400104: buzz-head base
+    400106: //RootNode
+    400108: bzz bras  dr
+    400110: bzz bras ga
+    400112: Camera
+    400114: Circle
+    400116: Circle.001
+    400118: Circle.002
+    400120: Circle.003
+    400122: CurveCircle.003
+    400124: mixamorig:Head
+    400126: mixamorig:HeadTop_End
+    400128: mixamorig:Hips
+    400130: mixamorig:LeftArm
+    400132: mixamorig:LeftFoot
+    400134: mixamorig:LeftForeArm
+    400136: mixamorig:LeftHand
+    400138: mixamorig:LeftHandIndex1
+    400140: mixamorig:LeftHandIndex2
+    400142: mixamorig:LeftHandIndex3
+    400144: mixamorig:LeftHandIndex4
+    400146: mixamorig:LeftLeg
+    400148: mixamorig:LeftShoulder
+    400150: mixamorig:LeftToe_End
+    400152: mixamorig:LeftToeBase
+    400154: mixamorig:LeftUpLeg
+    400156: mixamorig:Neck
+    400158: mixamorig:RightArm
+    400160: mixamorig:RightFoot
+    400162: mixamorig:RightForeArm
+    400164: mixamorig:RightHand
+    400166: mixamorig:RightHandIndex1
+    400168: mixamorig:RightHandIndex2
+    400170: mixamorig:RightHandIndex3
+    400172: mixamorig:RightHandIndex4
+    400174: mixamorig:RightLeg
+    400176: mixamorig:RightShoulder
+    400178: mixamorig:RightToe_End
+    400180: mixamorig:RightToeBase
+    400182: mixamorig:RightUpLeg
+    400184: mixamorig:Spine
+    400186: mixamorig:Spine1
+    400188: mixamorig:Spine2
+    400190: Sphere.006
+    400192: Sphere.016
+    2300000: buz cheville dr1
+    2300002: buz cheville dr2
+    2300004: buz cheville ga1
+    2300006: buzz cheville ga2
+    3300000: buz cheville dr1
+    3300002: buz cheville dr2
+    3300004: buz cheville ga1
+    3300006: buzz cheville ga2
+    4300000: buz artic pied dr
+    4300002: buz artic pied ga
+    4300004: buz bras dr artic2
+    4300006: buz bras ga artic2
+    4300008: buz cheville dr1
+    4300010: buz cheville ga1
+    4300012: buz epaule ga
+    4300014: buz genou dr
+    4300016: buz genou ga
+    4300018: buz main dr artic
+    4300020: buz main dr d1
+    4300022: buz main dr d2
+    4300024: buz main dr d3
+    4300026: buz main dr d4
+    4300028: buz main dr pouce
+    4300030: buz main ga artic
+    4300032: buz main ga d1
+    4300034: buz main ga d2
+    4300036: buz main ga d3
+    4300038: buz main ga d4
+    4300040: buz main ga pouce
+    4300042: buz paup sup ga
+    4300044: buzz avant bras dr
+    4300046: buzz avant bras ga
+    4300048: buzz bouton rouge1
+    4300050: buzz boutons droite
+    4300052: buzz bust epaules
+    4300054: buzz bust int1
+    4300056: buzz buste
+    4300058: buzz casque
+    4300060: buzz dents inf
+    4300062: buzz dents sup
+    4300064: buzz ep dr artic
+    4300066: buzz ep ga artic
+    4300068: buzz epaule dr
+    4300070: buzz euil dr
+    4300072: buzz euil ga
+    4300074: buzz hanches
+    4300076: buzz jamb bas dr
+    4300078: buzz jamb bas ga
+    4300080: buzz jambe dr
+    4300082: buzz jambe ga
+    4300084: buzz main dr
+    4300086: buzz main ga
+    4300088: buzz paup sup dr
+    4300090: buzz pied droit
+    4300092: buzz pied gauche
+    4300094: buzz slip
+    4300096: buzz sup casque d
+    4300098: buzz sup casque g
+    4300100: buzz-head base
+    4300102: bzz bras  dr
+    4300104: bzz bras ga
+    4300106: Circle
+    4300108: Circle.001
+    4300110: Circle.002
+    4300112: Circle.003
+    4300114: CurveCircle.003
+    4300116: Sphere.006
+    4300118: Sphere.016
+    7400000: mixamo.com
+    9500000: //RootNode
+    13700000: buz artic pied dr
+    13700002: buz artic pied ga
+    13700004: buz bras dr artic2
+    13700006: buz bras ga artic2
+    13700008: buz epaule ga
+    13700010: buz genou dr
+    13700012: buz genou ga
+    13700014: buz main dr artic
+    13700016: buz main dr d1
+    13700018: buz main dr d2
+    13700020: buz main dr d3
+    13700022: buz main dr d4
+    13700024: buz main dr pouce
+    13700026: buz main ga artic
+    13700028: buz main ga d1
+    13700030: buz main ga d2
+    13700032: buz main ga d3
+    13700034: buz main ga d4
+    13700036: buz main ga pouce
+    13700038: buz paup sup ga
+    13700040: buzz avant bras dr
+    13700042: buzz avant bras ga
+    13700044: buzz bouton rouge1
+    13700046: buzz boutons droite
+    13700048: buzz bust epaules
+    13700050: buzz bust int1
+    13700052: buzz buste
+    13700054: buzz casque
+    13700056: buzz dents inf
+    13700058: buzz dents sup
+    13700060: buzz ep dr artic
+    13700062: buzz ep ga artic
+    13700064: buzz epaule dr
+    13700066: buzz euil dr
+    13700068: buzz euil ga
+    13700070: buzz hanches
+    13700072: buzz jamb bas dr
+    13700074: buzz jamb bas ga
+    13700076: buzz jambe dr
+    13700078: buzz jambe ga
+    13700080: buzz main dr
+    13700082: buzz main ga
+    13700084: buzz paup sup dr
+    13700086: buzz pied droit
+    13700088: buzz pied gauche
+    13700090: buzz slip
+    13700092: buzz sup casque d
+    13700094: buzz sup casque g
+    13700096: buzz-head base
+    13700098: bzz bras  dr
+    13700100: bzz bras ga
+    13700102: Circle
+    13700104: Circle.001
+    13700106: Circle.002
+    13700108: Circle.003
+    13700110: CurveCircle.003
+    13700112: Sphere.006
+    13700114: Sphere.016
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
