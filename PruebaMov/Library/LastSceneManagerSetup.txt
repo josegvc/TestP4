@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/EtapaEnemigos(Oscar).unity
+- path: Assets/_Scenes/MainStage.unity
   isLoaded: 1
   isActive: 1

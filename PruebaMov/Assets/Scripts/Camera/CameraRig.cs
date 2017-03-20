@@ -72,7 +72,7 @@ public class CameraRig : MonoBehaviour
     {
         mainCamera = Camera.main;
         pivot = transform.GetChild(0);
-       // innerCamera.clearFlags = CameraClearFlags.Skybox;
+        innerCamera.clearFlags = CameraClearFlags.Skybox;
 
     }
 
