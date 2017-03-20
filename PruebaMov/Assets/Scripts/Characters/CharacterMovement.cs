@@ -4,7 +4,7 @@ using System;
 
 [RequireComponent(typeof(Animator))]
 [RequireComponent(typeof(CharacterController))]
-public class CharacterMovement : MonoBehaviour
+public class CharacterMovement: MonoBehaviour
 {
     Animator animator;
     CharacterController characterController;
