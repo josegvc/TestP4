@@ -57,4 +57,6 @@ public class CharacterMovement: MonoBehaviour
         animator.avatar = wantedAvater;
         Destroy(wantedAnim);
     }
+
+ 
 }
