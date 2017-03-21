@@ -8,7 +8,6 @@ public class PlayerHealth : MonoBehaviour
 {
     public int startingHealth = 1000;
     public int currentHealth;
-    public Slider oxigenSlider;
     public Slider healthSlider;
     public Image damageImage;
     public AudioClip deathClip;
@@ -39,7 +38,7 @@ public class PlayerHealth : MonoBehaviour
     {
         temporizador -= Time.deltaTime;
         temporizadorInt = (int)temporizador;
-        oxigenSlider.value = temporizadorInt;
+        healthSlider.value = temporizadorInt;
 
 
         if (damaged)
@@ -95,5 +94,18 @@ public class PlayerHealth : MonoBehaviour
     public void RestartLevel()
     {
         SceneManager.LoadScene(0);
+    }
+
+    
+    private void OnTriggerEnter(Collider collider)
+    {
+        if (collider.tag == "Vida")
+        {
+
+            temporizador = Time.deltaTime * 1000;
+            temporizadorInt = (int)temporizador;
+            healthSlider.value = temporizadorInt;
+        }
+
     }
 }
