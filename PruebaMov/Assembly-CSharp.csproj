@@ -46,7 +46,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\NewGameOnClick.cs" />
      <Compile Include="Assets\Scripts\Camera\CameraFollow.cs" />
      <Compile Include="Assets\Scripts\Camera\CameraRig.cs" />
      <Compile Include="Assets\Scripts\Characters\CharacterMovement.cs" />
@@ -76,11 +75,13 @@
      <Compile Include="Assets\Scripts\Managers\EnemyManager.cs" />
      <Compile Include="Assets\Scripts\Managers\GameOverManager.cs" />
      <Compile Include="Assets\Scripts\Managers\ScoreManager.cs" />
+     <Compile Include="Assets\Scripts\NewGameOnClick.cs" />
      <Compile Include="Assets\Scripts\Pause\PauseGame.cs" />
      <Compile Include="Assets\Scripts\PauseGame\ResumeGame.cs" />
      <Compile Include="Assets\Scripts\PauseGame\SaveGame.cs" />
      <Compile Include="Assets\Scripts\Player 1\PlayerHealth.cs" />
      <Compile Include="Assets\Scripts\Player 1\PlayerMovement.cs" />
+     <Compile Include="Assets\Scripts\Player 1\PlayerOxygen.cs" />
      <Compile Include="Assets\Scripts\Player 1\PlayerShooting.cs" />
      <Compile Include="Assets\Scripts\Player\UserInput.cs" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
