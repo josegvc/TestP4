@@ -22,8 +22,6 @@ public class PlayerHealth : MonoBehaviour
     bool isDead;
     bool damaged;
 
-    public float temporizador;
-    public int temporizadorInt;
 
     void Awake()
     {
@@ -36,11 +34,7 @@ public class PlayerHealth : MonoBehaviour
 
     void Update()
     {
-        temporizador -= Time.deltaTime;
-        temporizadorInt = (int)temporizador;
-        healthSlider.value = temporizadorInt;
-
-
+       
         if (damaged)
         {
             damageImage.color = flashColour;
@@ -52,10 +46,6 @@ public class PlayerHealth : MonoBehaviour
         damaged = false;
 
 
-        if (temporizadorInt == 0)
-        {
-            Death();
-        }
     }
 
     public void TakeDamage(int amount)
@@ -102,9 +92,8 @@ public class PlayerHealth : MonoBehaviour
         if (collider.tag == "Vida")
         {
 
-            temporizador = Time.deltaTime * 1000;
-            temporizadorInt = (int)temporizador;
-            healthSlider.value = temporizadorInt;
+            
+            healthSlider.value = startingHealth;
         }
 
     }

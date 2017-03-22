@@ -17,6 +17,7 @@ public class PlayerOxygen : MonoBehaviour {
 
     Animator anim;
     AudioSource playerAudio;
+
     PlayerMovement playerMovement;
     PlayerShooting playerShooting;
     bool isDead;
